@@ -1,1 +1,1 @@
-# scientifiCalculator
+# Scientific Calculator
